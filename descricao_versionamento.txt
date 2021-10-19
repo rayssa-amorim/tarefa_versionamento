@@ -1,0 +1,8 @@
+                                       AULA 2 E DESAFIO VERSIONAMENTO DE CÓDIGO - PROF JÉSSICA OSKO
+                                    
+                                                   IV CICLO FORMATIVO PRETALAB- ANO 2021
+
+
+- Desafio de criar repositório local e  enviar documento para o repositório remoto ( Github).
+- Uso de comandos git pelo terminal tais como : git init, git status, git add, git commit -m, git diff, git log,  git push, dentre outros.
+
